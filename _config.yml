@@ -1,18 +1,21 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: DIAGNOSTIC FOREST
+#baseurl: "../"
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: PPK
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About: /about/
+  Blog: /blog/
+  Projects: /projects/
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
