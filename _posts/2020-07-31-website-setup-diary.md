@@ -2,9 +2,10 @@
 layout: post
 title: Website Setup Diary
 subtitle: Difficulties I met during setting up this website
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/gustav-gullstrand.jpg
+thumbnail-img: /assets/img/kiki-wang-TOc.jpg
 share-img: /assets/img/path.jpg
+permalink: /setup diary/
 tags: [story]
 ---
 
@@ -12,6 +13,9 @@ tags: [story]
 I learned how to use GitHub.
 
 # Achievement #2
+I learned markdown syntax.
+
+# Achievement #3
 I met problem when adopting the theme "beautiful-jekyll" and spent almost 48 hours 
 without any progress. I forked the theme on July 29th making changes on it for two straight nights until morning 
 when I had to take 2 hours nap and began my MacLean Center summer intensive lectures at 8 am on the bed 

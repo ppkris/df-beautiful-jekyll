@@ -3,8 +3,10 @@ layout: page
 title: Projects
 subtitle: Why you'd want to go on a date with me
 permalink: /projects/
+cover-img: /assets/img/sebastian-unrau-sp.jpg
 ---
-
+### Tables:
+Table 1
 <table>
   <thead>
     <tr>
@@ -40,3 +42,8 @@ Table 2
 | `showLog`                     | Print any JavaScript `console.log()` messages in the R console, to make it easier and quicker to debug apps without having to open the JS console. |
 | `logjs`                       | Print a message to the JavaScript console (mainly used for debugging purposes).                                                                    |
 | `inlineCSS`                   | Easily add inline CSS to a Shiny app.                                                                                                              |
+     
+<br>
+## Blogs:
+### 1. My new blog: [Website setup diary](/setup diary/)
+### 2. My first project: [This is my first project](/project01/)
