@@ -43,6 +43,9 @@ Table 2
 | `logjs`                       | Print a message to the JavaScript console (mainly used for debugging purposes).                                                                    |
 | `inlineCSS`                   | Easily add inline CSS to a Shiny app.                                                                                                              |
      
+Table 3
+     
+
 <br>
 ## Blogs:
 ### 1. My new blog: [Website setup diary](/setup diary/)
