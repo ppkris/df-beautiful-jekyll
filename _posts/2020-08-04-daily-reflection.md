@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 0804 Daily Reflection
-subtitle: Things and thoughts of today
+title: Things and thoughts of today
+subtitle: 0804 Daily Reflection
 cover-img: /assets/img/gustav-gullstrand.jpg
 thumbnail-img: /assets/img/kiki-wang-TOc.jpg
 share-img: /assets/img/path.jpg
