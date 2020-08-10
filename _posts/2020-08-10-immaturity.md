@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immature
+title: Immaturity
 subtitle: 0810 Daily Reflection
 cover-img: /assets/img/gustav-gullstrand.jpg
 thumbnail-img: /assets/img/kiki-wang-TOc.jpg
