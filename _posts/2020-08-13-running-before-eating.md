@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Running before eating
-subtitle: 0813 Daily Reflection
+subtitle: 0812 Daily Reflection
 cover-img: /assets/img/gustav-gullstrand.jpg
 thumbnail-img: /assets/img/kiki-wang-TOc.jpg
 share-img: /assets/img/path.jpg
-permalink: /20200813 dr/
+permalink: /20200812 dr/
 tags: [story, reflection]
 ---
 
