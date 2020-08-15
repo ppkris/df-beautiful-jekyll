@@ -9,7 +9,7 @@ permalink: /20200815 dr/
 tags: [story, reflection]
 ---
 
-I experienced insomnia last time when I intentionally went to bed earlier than usual but only fell asleep in 
+I experienced insomnia last night when I intentionally went to bed earlier than usual but only fell asleep in 
 the morning. The notion that someone would come and take the baking plate pulled me up at 12:30 pm. Yet, 
 one message in WeChat group totally woke me up that it is required from August 24th to have Covid 19 PCR test 
 for flight transfer in Korea and threw me in anxiety for the whole day maybe until now.  
