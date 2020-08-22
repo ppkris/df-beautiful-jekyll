@@ -16,6 +16,7 @@ navbar-links:
   About: /about/
   Blog: /blog/
   Projects: /projects/
+  Papers: /papers/
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

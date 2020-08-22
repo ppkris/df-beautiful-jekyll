@@ -5,7 +5,7 @@ subtitle: These are papers I read and am reading
 cover-img: /assets/img/gustav-gullstrand.jpg
 thumbnail-img: /assets/img/kiki-wang-TOc.jpg
 share-img: /assets/img/path.jpg
-permalink: /20200801 papers/
+permalink: /papers/
 tags: [research]
 ---
 
@@ -54,3 +54,10 @@ _European Heart Journal_
 _doi:10.1093/eurheartj/ehz701_
 
 #### #8
+#### Predictive Utility of a Machine Learning Algorithm in Estimating Mortality Risk in Cardiac Surgery  
+Arman Kilic  
+_The Annals of Thoracic Surgery_  
+_https://doi.org/10.1016/j.athoracsur.2019.09.049_  
+
+#### #9
+
