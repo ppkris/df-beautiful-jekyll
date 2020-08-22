@@ -40,4 +40,4 @@ cause problems. Hope these are just normal reactions during this abnormal period
 <br>
 Hope I can get my test result back soon and safely got on to the plane. By the way in order to not let airline staff 
 question my test result or even reject me on board I asked youyou to help me print the 7 pages introduction of the cobas 
-assay. What makes me so paranoid like this? I am just overreacting or it is the reality?   
+assay. What makes me so paranoid like this? Am I just overreacting or is it the reality?   
