@@ -50,4 +50,4 @@ Table 3
 ## Blogs:
 ### 1. My new blog: [Website setup diary](/setup diary/)
 ### 2. My first project: [This is my first project](/project01/)
-### 3. These are papers I read: [Papers](/20200801 papers/)
+### 3. These are papers I read: [Papers](/papers/)
