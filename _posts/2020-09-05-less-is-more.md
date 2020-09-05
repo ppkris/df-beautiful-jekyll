@@ -2,8 +2,8 @@
 layout: post
 title: Less is More
 subtitle: 0905 Daily Reflection
-cover-img: /assets/img/gustav-gullstrand.jpg
-thumbnail-img: /assets/img/kiki-wang-TOc.jpg
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 permalink: /20200905 dr/
 tags: [story, reflection]

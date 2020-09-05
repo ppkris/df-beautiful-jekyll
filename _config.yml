@@ -1,8 +1,9 @@
 # --- Basic options --- #
+future: true
 
 # Name of website
 title: DIAGNOSTIC FOREST
-#baseurl: "../"
+baseurl: ""
 
 # Short description of your site
 description: A virtual proof that I'm awesome
