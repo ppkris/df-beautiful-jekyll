@@ -60,4 +60,10 @@ _The Annals of Thoracic Surgery_
 _https://doi.org/10.1016/j.athoracsur.2019.09.049_  
 
 #### #9
+#### Moving beyond regression techniques in cardiovascular risk prediction: applying machine learning to address analytic challenges  
+Benjamin A. Goldstein, Ann Marie Navar, and Rickey E. Carter  
+_European Heart Journal_  
+_doi:10.1093/eurheartj/ehw302_  
+
+#### #10
 
